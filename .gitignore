@@ -1,0 +1,5 @@
+# Ar Project klasörünün tamamını yok say
+Ar Project/
+
+# Eğer Ar Project altında izlemek istediğiniz belirli dosyalar varsa aşağıdaki gibi hariç tutabilirsiniz:
+# !Ar Project/important-file.txt
