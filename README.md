@@ -12,7 +12,7 @@ Download the full project files from the link below.
 
 Extract the files into the Ar-Project directory (create the directory if it doesn't exist).
 
-Download Link
+Click on the link to see Unity folders
 
 https://drive.google.com/drive/folders/1zNyjFOr0R4Nhfp6FprJzS0NXMeoS9eyx?usp=sharing
 
