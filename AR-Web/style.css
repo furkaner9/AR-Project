@@ -1,39 +1,32 @@
+html,
 body {
-  font-family: Arial, sans-serif;
+  height: 100%; /* Sayfa yüksekliğini %100 yaparak flexbox'un düzgün çalışmasını sağlarız */
   margin: 0;
   padding: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; /* İçeriği en üstten en alta yerleştirir */
+  font-family: Arial, sans-serif;
+  background: url("images/background.gif") no-repeat center center fixed;
+  background-size: cover;
+  color: white;
   text-align: center;
-  background-color: #f9f9f9;
 }
 
 header {
-  background-color: #4caf50;
-  color: white;
-  padding: 1rem;
+  padding: 2rem 1rem;
+  background: rgba(0, 0, 0, 0.5); /* Header için yarı şeffaf arka plan */
 }
 
 main {
-  margin: 2rem auto;
-}
-
-.download-btn {
-  display: inline-block;
-  padding: 1rem 2rem;
-  font-size: 1.2rem;
-  color: white;
-  background-color: #4caf50;
-  text-decoration: none;
-  border-radius: 5px;
-  margin-top: 1rem;
-}
-
-.download-btn:hover {
-  background-color: #45a049;
+  flex-grow: 1; /* Ana içerik alanının büyümesini sağlar */
+  padding: 2rem;
 }
 
 footer {
-  margin-top: 2rem;
   padding: 1rem;
-  background-color: #333;
-  color: white;
+  background: rgba(0, 0, 0, 0.5); /* Footer için yarı şeffaf arka plan */
 }

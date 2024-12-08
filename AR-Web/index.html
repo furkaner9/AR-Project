@@ -5,25 +5,54 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>AR Uygulaması</title>
     <link rel="stylesheet" href="style.css" />
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background: url("image/giphy.webp") no-repeat center center fixed;
+        background-size: cover;
+        color: white;
+        text-align: center;
+      }
+      header {
+        padding: 2rem 1rem;
+        background: rgba(0, 0, 0, 0.5); /* Header için yarı şeffaf arka plan */
+      }
+      .download-btn {
+        display: inline-block;
+        padding: 1rem 2rem;
+        font-size: 1.2rem;
+        color: white;
+        background-color: #4caf50;
+        text-decoration: none;
+        border-radius: 5px;
+        margin-top: 1rem;
+      }
+      .download-btn:hover {
+        background-color: #45a049;
+      }
+      footer {
+        margin-top: 2rem;
+        padding: 1rem;
+        background: rgba(0, 0, 0, 0.5); /* Footer için yarı şeffaf arka plan */
+      }
+    </style>
   </head>
   <body>
     <header>
       <h1>AR Uygulamasını İndirin</h1>
     </header>
     <main>
-      <section class="intro">
-        <p>
-          <span
-            >Roma rakamlarını öğrenmek için AR uygulamamızı hemen indirin!</span
-          >
-        </p>
+      <section>
+        <p>Roma rakamlarını öğrenmek için AR uygulamamızı hemen indirin!</p>
         <a href="app/your-app.apk" class="download-btn" download
           >APK'yı İndir</a
         >
       </section>
-      <footer>
-        <p>© 2024 AR Eğitim Uygulaması. Tüm Hakları Saklıdır.</p>
-      </footer>
     </main>
+    <footer>
+      <p>© 2024 AR Eğitim Uygulaması. Tüm Hakları Saklıdır.</p>
+    </footer>
   </body>
 </html>
