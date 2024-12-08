@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: #f9f9f9;
+}
+
+header {
+  background-color: #4caf50;
+  color: white;
+  padding: 1rem;
+}
+
+main {
+  margin: 2rem auto;
+}
+
+.download-btn {
+  display: inline-block;
+  padding: 1rem 2rem;
+  font-size: 1.2rem;
+  color: white;
+  background-color: #4caf50;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-top: 1rem;
+}
+
+.download-btn:hover {
+  background-color: #45a049;
+}
+
+footer {
+  margin-top: 2rem;
+  padding: 1rem;
+  background-color: #333;
+  color: white;
+}
