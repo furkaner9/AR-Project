@@ -1,0 +1,43 @@
+AR Projesi SWOT Analizi
+
+Güçlü Yönler (Strengths)
+
+Eğitimde Yenilikçi Yaklaşım: Proje, artırılmış gerçeklik (AR) teknolojisini kullanarak çocuklara Roma rakamlarını öğretme gibi yaratıcı bir yöntem sunuyor.
+
+Etkileşimli Tasarım: Çocukların dokunma, hareket ve sesle etkileşim kurmasını sağlayan özellikler, öğrenme deneyimini eğlenceli ve akılda kalıcı hale getiriyor.
+
+Hedef Kitlenin Belirginliği: Proje, 7-10 yaş grubundaki çocuklara özel olarak tasarlanmıştır, bu da odaklanmayı kolaylaştırır.
+
+Motivasyon Sağlayan Ödül Sistemi: Doğru cevaplarda sanal madalyalar gibi ödüller, çocukların motivasyonunu artırır ve öğrenmeye teşvik eder.
+
+Teknoloji Kullanımı: Unity platformu ve Vuforia Engine gibi güçlü araçlarla geliştirilmiş olması, teknik altyapının sağlam olduğunu gösterir.
+
+Zayıf Yönler (Weaknesses)
+
+Yüksek Geliştirme Maliyeti: AR projeleri için gereken ekipman ve yazılım lisansları maliyetli olabilir.
+
+Teknik Karmaşıklık: Unity ve Vuforia gibi araçların öğrenilmesi zaman alabilir, bu da geliştirme sürecini uzatabilir.
+
+Cihaz Uyumluluğu: AR uygulamaları her cihazda aynı performansı göstermeyebilir, bu da kullanıcı deneyimini etkileyebilir.
+
+Büyük Dosya Boyutu: Proje dosyalarının büyük olması, paylaşım ve depolama açısından zorluklar yaratabilir.
+
+Fırsatlar (Opportunities)
+
+Eğitim Sektöründe Artan İlgi: AR teknolojisinin eğitim alanında giderek daha fazla kullanılması, bu proje için yeni fırsatlar yaratabilir.
+
+Hedef Kitlenin Teknolojiye Yatkınlığı: Çocukların teknolojiyi hızlı öğrenmesi, projenin kabul görmesini kolaylaştırır.
+
+Pazar Genişletme: Proje, farklı diller ve müfredatlara uyarlanarak global pazarda kullanılabilir.
+
+Kurumsal İşbirlikleri: Eğitim kurumları ve AR teknolojisi sağlayıcıları ile işbirliği fırsatları değerlendirilebilir.
+
+Tehditler (Threats)
+
+Yoğun Rekabet: Eğitim teknolojileri pazarında benzer projelerin artması, rekabeti zorlaştırabilir.
+
+Teknolojik Sorunlar: AR teknolojisindeki olası hatalar veya cihaz uyumsuzlukları kullanıcı memnuniyetini olumsuz etkileyebilir.
+
+Erişim Sorunları: Bazı okullar veya bireyler, AR uyumlu cihazlara erişimde sorun yaşayabilir.
+
+Hızla Değişen Teknoloji: AR teknolojisinin hızla değişmesi, projeyi kısa sürede eski hale getirebilir.

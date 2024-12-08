@@ -1,0 +1,37 @@
+1. Proje Tanımı ve Hedefler
+Bu proje, 7-10 yaş arasındaki çocuklara Roma rakamlarını öğretmeyi hedefleyen bir artırılmış gerçeklik (AR) uygulamasıdır. Uygulama, çocukların etkileşimli bir şekilde Roma rakamlarıyla tanışmalarını, onları öğrenmelerini ve doğru bildiklerinde ödüller kazanmalarını sağlamak üzere tasarlanmıştır.
+
+2. Kullanılacak Teknolojiler
+Unity: Proje geliştirme platformu olarak Unity kullanılacaktır. Unity, AR projeleri için yaygın olarak kullanılan bir oyun motorudur ve zengin AR özellikleriyle birlikte gelir. AR geliştirme için güçlü bir araçtır ve geniş bir kullanıcı kitlesi ve kaynakları vardır.
+
+AR Foundation: Unity üzerinde artırılmış gerçeklik (AR) uygulamaları geliştirmek için AR Foundation kütüphanesi kullanılacaktır. Bu kütüphane, hem iOS hem de Android platformlarında çalışan uygulamalar geliştirmeyi sağlar. Ayrıca, ARKit ve ARCore ile entegrasyon sağlayarak, uygulamanın her iki platformda da çalışmasını mümkün kılar.
+
+C# Programlama Dili: Unity ile projeler geliştirmek için C# diline hakimiyet gereklidir. Uygulama, etkileşimleri ve objelerin yönetilmesini sağlayan kodlarla şekillendirilecektir.
+
+Objelerin 3D Modellenmesi: Roma rakamlarının görsel temsillerinin ve etkileşimli objelerin 3D olarak modellenmesi gerekecektir. Bu modeller, çocukların etkileşimde bulunabileceği, gerçek dünya ortamlarında görünen sanal objeler olarak AR üzerinden sunulacaktır.
+
+Ses Tanıma ve Etkileşim: Sesle etkileşim, çocukların uygulama ile etkileşimde bulunmasını sağlamak için bir araç olabilir. Unity ile ses tanıma özellikleri entegre edilerek, çocuklar sesli komutlar vererek Roma rakamlarını öğrenebilirler.
+
+3. Proje İçeriği ve Etkileşimler
+Objeleri Tarama: Uygulama, kameraya entegre bir özellik ile fiziksel objeleri tarayarak, objenin üzerine sanal bir Roma rakamı görüntüler.
+
+Dokunma ve Hareketle Etkileşim: Kullanıcılar, dokunarak veya hareket ederek Roma rakamlarını öğrenebilir. Her doğru cevap, sanal bir ödül (madalya) ile ödüllendirilecektir.
+
+Ödüller ve Motivasyon: Öğrenme süreci boyunca, çocuklar doğru cevaplar vererek sanal madalyalar kazanacaklar. Bu, motivasyonu artıran bir mekanizmadır.
+
+4. Teknolojik Hazırlık Seviyesi
+Platform ve Araçlar: Kullanılacak araçlar (Unity, AR Foundation, C#) yaygın ve olgun teknolojilerdir. Bu araçlar, geliştirilmiş ve güçlü topluluk desteği ile birlikte gelir. AR Foundation, platformlar arası uyumluluğu sağlar, bu da hem iOS hem de Android cihazlar için uygulama geliştirmeyi mümkün kılar.
+
+Kullanıcı Deneyimi ve Etkileşim: Sesle etkileşim ve dokunmatik etkileşimler konusunda önemli bir teknik bilgi ve deneyim gerekmektedir. Ancak, Unity ve AR Foundation'ın sunduğu güçlü özellikler ile bu etkileşimler sorunsuz bir şekilde geliştirilebilir.
+
+3D Modelleme: Roma rakamlarını temsil edecek 3D modellerin tasarımı, görsel çekicilik ve etkileşimi artıracaktır. Bu modellerin tasarlanması, gelişmiş modelleme yazılımlarını ve yaratıcı süreci gerektirir.
+
+Test ve Optimizasyon: Uygulama geliştirme sürecinde, etkileşimlerin doğru çalışması ve görsel öğelerin gerçek dünya ortamlarıyla uyumlu olması sağlanmalıdır. Ayrıca, uygulamanın performansını optimize etmek için testler yapılmalıdır.
+
+5. Geliştirilmesi Gereken Alanlar
+Ses Tanıma ve Sesli Etkileşim: Ses tanıma teknolojisinin doğru bir şekilde çalışması ve çocukların sesli komutlarla etkileşime geçmesi için ek bir geliştirme süreci gerekebilir.
+
+3D Modelleme ve Animasyonlar: Roma rakamlarının görsel temsilini ve etkileşimli özelliklerini yaratmak için 3D modelleme ve animasyon bilgisi gerekecektir. Çocuk dostu, çekici ve öğretici bir görsel tasarım önemlidir.
+
+6. Sonuç
+Bu proje, eğitim ve oyun birleşiminde güçlü bir araç sunmayı amaçlamaktadır. Kullanılacak teknolojiler (Unity, AR Foundation, C#) olgunlaşmış ve yaygın olarak kullanılmaktadır. Ancak, 3D modelleme ve ses tanıma gibi bazı özel alanlarda ek geliştirme ve testler gereklidir. Proje, çocukların Roma rakamlarıyla etkileşimde bulunarak eğlenmelerini sağlarken, aynı zamanda öğrenmelerini teşvik edecektir.
