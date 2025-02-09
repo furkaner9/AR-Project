@@ -1,50 +1,62 @@
-AR-Project
-Site Link : https://furkaner9.github.io/aryayinlama/
+# AR-Project
 
-This repository contains the configuration and setup for the AR-Project. Since the full project files exceed GitHub's file size limits, the main project files are hosted on Google Drive. You can download the full project using the link provided below.
+## 📌 Proje Hakkında
+Bu proje, **7-10 yaş arası çocuklara** artırılmış gerçeklik (**AR**) kullanarak **Roma rakamlarını öğretmek** amacıyla geliştirilmiştir. **Unity ve Vuforia Engine** kullanılarak oluşturulmuş olup, çocukların **dokunma, sesli komutlar ve hareketler** ile etkileşime geçebileceği bir kullanıcı deneyimi sunar.
 
-How to Use
+🔗 **Site Linki:** [AR-Project Yayınlama](https://furkaner9.github.io/aryayinlama/)
 
-Clone this repository to get started:
+📁 **Tam proje dosyalarına ulaşmak için:** [Google Drive](https://drive.google.com/drive/folders/1zNyjFOr0R4Nhfp6FprJzS0NXMeoS9eyx?usp=sharing)
 
+---
+
+## 🚀 Nasıl Kurulur?
+
+### 1️⃣ Depoyu Klonlayın
+```bash
 git clone https://github.com/furkaner9/AR-Project.git
+```
 
-Download the full project files from the link below.
+### 2️⃣ Tam Proje Dosyalarını İndirin
+Yukarıdaki **Google Drive** bağlantısından dosyaları indirin ve **Ar-Project** dizinine çıkartın (klasör yoksa oluşturun).
 
-Extract the files into the Ar-Project directory (create the directory if it doesn't exist).
+### 3️⃣ Unity Üzerinde Açın
+- **Unity Hub**'ı açın.
+- **Add (Ekle)** butonuna tıklayarak çıkardığınız proje klasörünü seçin.
+- Projeyi açın ve Unity'nin bağımlılıkları yüklemesini bekleyin.
 
-Click on the link to see Unity folders
+### 4️⃣ Vuforia Engine Ayarlarını Kontrol Edin
+Vuforia Engine'in proje ayarlarında doğru yapılandırıldığından emin olun.
 
-https://drive.google.com/drive/folders/1zNyjFOr0R4Nhfp6FprJzS0NXMeoS9eyx?usp=sharing
+---
 
-Requirements
+## 📌 Gereksinimler
+- **Unity 2021.3** veya daha yeni bir sürüm
+- **Vuforia Engine 10.28.4**
+- **Git LFS** (büyük dosyaları yönetmek için)
 
-Unity 2021.3 or later
+---
 
-Vuforia Engine 10.28.4
+## 🎮 Proje Özellikleri
+✅ **Etkileşimli AR Deneyimi**: Sesli komutlar, dokunmatik ekran ve hareket sensörleriyle kullanım.
+✅ **Ödüllendirme Sistemi**: Doğru cevaplar için **sanal madalya kazanma** özelliği.
+✅ **Roma Rakamları Eğitimi**: I’den M’ye kadar tüm **Roma rakamlarını öğretme**.
+✅ **Çocuk Dostu UI/UX**: Eğlenceli ve öğretici bir tasarım.
 
-Git LFS (for managing large files)
+---
 
-Project Features
+## 🤝 Katkıda Bulunma
+Projeye katkı sağlamak isterseniz:
+1. **Depoyu forklayın**.
+2. Geliştirmelerinizi yapın.
+3. **Pull Request** oluşturarak değişikliklerinizi gönderin.
 
-Augmented Reality features designed for children aged 7-10 to learn Roman numerals.
+Katkılar her zaman memnuniyetle karşılanır! 🎉
 
-Interactive UI/UX with voice, touch, and motion controls.
+---
 
-Rewards system with virtual medals for correct answers.
+## 📜 Lisans
+Bu proje **MIT Lisansı** altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına göz atabilirsiniz.
 
-Setup Instructions
+---
 
-Open Unity Hub and select Add to locate the extracted project folder.
-
-Open the project and wait for Unity to load dependencies.
-
-Ensure that Vuforia Engine is correctly set up in the project settings.
-
-Contributing
-
-If you have any improvements or suggestions, feel free to fork the repository and create a pull request. Contributions are always welcome!
-
-License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
+💡 **Herhangi bir sorunuz varsa, GitHub Issues bölümünden bildirebilirsiniz!**
