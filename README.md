@@ -7,6 +7,9 @@ Bu proje, **7-10 yaş arası çocuklara** artırılmış gerçeklik (**AR**) kul
 
 📁 **Tam proje dosyalarına ulaşmak için:** [Google Drive](https://drive.google.com/drive/folders/1zNyjFOr0R4Nhfp6FprJzS0NXMeoS9eyx?usp=sharing)
 
+## 📂 Diyagramlar
+Proje ile ilgili **Teknoloji Hazırlık Seviyesi** ve **SWOT Analizi**, `diyagramlar` klasöründe bulunmaktadır.
+
 ---
 
 ## 🚀 Nasıl Kurulur?
